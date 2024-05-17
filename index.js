@@ -36,12 +36,12 @@ console.log(num2 - num3);
 // console.log(x);
 // console.log(typeof(String(x)));
 
-let name2 
-console.log(name2);
+// let name2 
+// console.log(name2);
 
 
-let name3 = null; 
-console.log(name3);
+// let name3 = null; 
+// console.log(name3);
 
 
 // let x = 33;
@@ -50,12 +50,12 @@ console.log(name3);
 
  let x = 33;
  let y = true;
- console.log(x + 12 + y)
+ console.log(x + y)
 
 
-let email = "utyyjh.com";
-let name4 = "ddd";
-let account = "5643";
-let etc;
-console.table({email, name4, account ,etc});
+// let email = "utyyjh.com";
+// let name4 = "ddd";
+// let account = "5643";
+// let etc;
+// console.table({email, name4, account ,etc});
 
